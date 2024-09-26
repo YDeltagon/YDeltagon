@@ -4,10 +4,6 @@
 🔭 Currently learning and experimenting with **Python**  
 💡 Passionate about technology, automation, and software development.
 
-## 📌 Pinned Project
-### [OPTY](https://github.com/YDeltagon/OPTY)
-A powerful tool for system optimization and cleaning.  
-Written in `Batchfile` to automate system maintenance.
 
 ---
 
